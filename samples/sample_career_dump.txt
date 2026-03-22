@@ -1,0 +1,21 @@
+messy notes dump:
+- acme payments, maybe 2022 now? title sr backend eng
+- did event-driven services with kafka, fastapi, python, postgres
+- one project reduced failed webhook retries around 40% after idempotency key changes
+- did incident response, oncall, wrote runbooks, mean time to recovery maybe 20% down but not fully measured
+- shipped redis cache layer for partner config lookups
+- worked with stripe-like flows, payment intents and webhooks
+- migrated old cron jobs to async workers
+- improved p95 latency api from around 650ms to 450ms (roughly 30%)
+- added tests pytest and contract tests for partners
+- did security review for secrets handling and rotated keys process
+
+old company orion analytics 2019-2022
+- node.js + typescript apis
+- some python data pipelines
+- dashboards for operations using postgres and metabase
+- implemented role-based access control for internal tools
+- worked with aws ecs, s3, cloudwatch, terraform basics
+
+skills maybe:
+python, fastapi, node, typescript, postgresql, redis, kafka, aws, github actions, docker, pytest

@@ -1,0 +1,16 @@
+Senior Backend Engineer (Remote, US)
+
+We are looking for a Senior Backend Engineer to design and scale mission-critical API services for our payments platform.
+
+Requirements:
+- 5+ years backend engineering experience
+- Strong Python and FastAPI experience
+- Deep PostgreSQL performance tuning knowledge
+- Experience with event-driven systems (Kafka)
+- Familiarity with AWS (ECS, S3, CloudWatch)
+- Strong testing practices (unit/integration)
+- Experience improving reliability, incident response, and runbooks
+
+Nice to have:
+- Redis caching patterns
+- CI/CD with GitHub Actions

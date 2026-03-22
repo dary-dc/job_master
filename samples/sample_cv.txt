@@ -1,0 +1,18 @@
+Alex Rivera
+alex.rivera@example.com | github.com/alexrivera | Austin, TX
+
+SUMMARY
+Backend-focused software engineer with 7+ years building APIs and data-heavy platforms.
+
+WORK EXPERIENCE
+Senior Software Engineer, Acme Payments (2022-Present)
+- Built Python/FastAPI microservices for payment events.
+- Improved p95 API latency by 30% by optimizing PostgreSQL indexes.
+- Added CI checks with GitHub Actions.
+
+Software Engineer, Orion Analytics (2019-2022)
+- Developed Node.js services and ETL jobs.
+- Built dashboards for operational KPIs.
+
+EDUCATION
+B.S. Computer Science, University of Texas
